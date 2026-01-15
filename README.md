@@ -1,8 +1,4 @@
-### Olá! Eu sou Murillo Marins 👋
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-</div>
+### Olá! Eu sou Murillo Marins
 
 ### 🚀 Sobre Mim
 Sou um profissional em **transição para a área de Tecnologia**, unindo minha bagagem em **Logística e KPIs** com novas habilidades em **Desenvolvimento e Dados**.
@@ -15,14 +11,13 @@ Atualmente estou focado em criar soluções de automação e inteligência de da
 
 ---
 
-### 🛠️ Tech Stack & Ferramentas
+### 🛠️ Linguagens e Dados
 
-**Linguagens & Dados**
+**Linguagens**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-**Automação & Low-Code**
+**Automação & Ferramentas**
 ![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -40,7 +35,7 @@ Atualmente estou focado em criar soluções de automação e inteligência de da
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/murillo-marins-200316253/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="mailto:murillomarins05@gmail.com">
