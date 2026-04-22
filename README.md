@@ -19,8 +19,8 @@ Atualmente cursando o 6º semestre de **Análise e Desenvolvimento de Sistemas n
 
 ### 📈 Desafio: 1 Dashboard por Dia
 Estou em uma jornada pessoal de construir pelo menos um dashboard por dia para consolidar meu portfólio e explorar novas técnicas de design e análise.
-* **[Monitoramento de Cooperados RH](LINK_DO_SEU_REPO):** Dashboard focado em KPIs de gestão de pessoas e indicadores operacionais.
-* **[Finmate-AI](LINK_DO_SEU_REPO):** Sistema de assistente financeiro inteligente com integração de dados.
+* **[Financial Analytics Premium](https://github.com/Mu-grills/financial-analytics-premium):** Dashboard financeiro de alto nível focado em análise de performance, integrando visual premium com insights profundos.
+* **[Finmate-AI](https://github.com/Mu-grills/finmate-ai):** Sistema de assistente financeiro inteligente com integração de dados.
 
 ---
 
